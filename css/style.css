@@ -29,7 +29,7 @@
 }
 #featured_work {
   overflow: hidden;
-  padding: 58px;
+  padding-top: 58px;
 }
 #submit {
   background-image: url(../images/work_banner.jpg);
