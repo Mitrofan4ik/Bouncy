@@ -1133,7 +1133,7 @@
   font: 20px/24px 'Open Sans', sans-serif;
   text-transform: none;
   letter-spacing: 1px;
-  padding-top: 57px 0 103px;
+  padding: 57px 0 103px;
 }
 .pricing .package_box .box_out span:nth-child(2) strong {
   font: 900 42px 'Source Sans Pro', sans-serif;
